@@ -1,0 +1,10 @@
+.mysection .content-1 {
+   background-color: red;
+}
+.mysection > div {
+   border: 1px solid green;
+   margin-bottom: 5px;
+}
+body {
+   background-color: aquamarine;
+}
